@@ -1,5 +1,8 @@
+streamlit
 torch
 torchvision
 transformers
+matplotlib
 pandas
-streamlit
+numpy
+scikit-learn
