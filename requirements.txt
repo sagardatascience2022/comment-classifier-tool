@@ -3,6 +3,7 @@ torch
 torchvision
 transformers
 matplotlib
+seaborn
 pandas
 numpy
 scikit-learn
